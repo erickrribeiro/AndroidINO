@@ -1,4 +1,18 @@
 <resources>
-    <string name="app_name">AndroidINO</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Comunicação AndroidINO</string>
+    <string name="txt_status_desconectado">Desconectado.</string>
+    <string name="txt_status_conectado">Conectado.</string>
+    <string name="txt_acao_menu_conectar">Conectar</string>
+    <string name="txt_acao_desconectar">Desconectar</string>
+    <string name="txt_acao_menu_lista_dispositivos">Listar dispositivo</string>
+    <string name="txt_titulo_popup">Conexão Bluetoth</string>
+    <string name="txt_messagem_popup">Informe o nome do Bluetooth.</string>
+    <string name="txt_nome_janela_dispositivos">Exibir dispositivos</string>
+    <string name="txt_toast_erro_bluetooth_pareamento">Não existe um Bluetooth pareado com esse nome.</string>
+    <string name="txt_campo_dado_padrao">Nenhum dado recebido</string>
+    <string name="txt_tem_bluetooth">Seu dispositivo tem Bluetooth</string>
+    <string name="txt_nao_tem_bluetooth">Seu dispositivo não tem Bluetooth</string>
+    <string name="txt_nao_conectou">Não foi possivel conectar</string>
+    <string name="txt_erro_criar_conexao">"Erro creating Bluetooth! : "</string>
+
 </resources>
